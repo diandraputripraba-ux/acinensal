@@ -1,5 +1,3 @@
-style.css
-
 ul { List_style_type : none ;
 padding : 16 px ;
 }
@@ -7,4 +5,8 @@ padding : 16 px ;
 Li { display : inline ; 
 padding - left : 4 px solid gray ;
 padding - right : 4 pcx solid gray : 
+}
+
+body {
+  background-color: #fffa99;
 }
